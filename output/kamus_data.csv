@@ -1,6 +1,6 @@
 kolom,tipe_data,n_missing,n_unik
 employee_id,object,0,1200
-usia,float64,0,38
+usia,int64,0,38
 jenis_kelamin,object,28,2
 departemen,object,31,5
 jabatan,object,18,17
